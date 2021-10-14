@@ -1,0 +1,23 @@
+.navbar-brand{    
+    width: 15%;
+}
+
+.logo{
+    width: 100%;
+}
+
+footer{
+    margin-top: 5%;
+}
+
+.bg-color{
+    background-color: #e3f2fd;
+}
+
+.carousel{
+    margin: 2.5% auto;
+}
+
+.masVendidos{
+    margin: 2.5% auto;
+}
